@@ -32,7 +32,7 @@
 
 ## 📫 聯絡我
 - **Email**: 11346061@ntub.edu.tw  
-- **個人網站**: [你的網站](https://nasir1014.github.io)  
+- **個人網站**: [My Website](https://nasir1014.github.io)  
 
 ---
 
